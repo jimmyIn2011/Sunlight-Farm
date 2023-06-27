@@ -8,4 +8,4 @@ But don't worry, I will also use HTML and other languages.
 
 众所周知，这是我的一个游戏。
 
-但是别着急，我还会用HTML及其他语言制作。
+但是别着急，我还会用Java及其他语言制作。
