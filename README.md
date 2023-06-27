@@ -2,7 +2,7 @@
 
 As we all know, this is one of my games.
 
-But don't worry, I will also use HTML and other languages.
+But don't worry, I will also use Java and other languages.
 
 <hr/>
 
